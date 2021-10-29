@@ -1,0 +1,11 @@
+CRITICAL - 2021-10-28 17:49:55 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\item.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('item', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(37): view('item', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_update('1')
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -1,0 +1,205 @@
+CRITICAL - 2021-10-26 20:08:35 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota-main\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota-main\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota-main\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota-main\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota-main\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota-main\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota-main\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:09:26 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:09:48 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:21:56 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:22:25 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:22:31 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:22:36 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:23:44 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:28:31 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-10-26 20:28:49 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\xampp\htdocs\loja_dota\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\xampp\htdocs\loja_dota\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\xampp\htdocs\loja_dota\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(596): cache()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(305): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2021-10-26 20:37:10 --> Error connecting to the database: Unknown database 'loja_dota'
+CRITICAL - 2021-10-26 20:37:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'loja_dota'
+#0 C:\xampp\htdocs\loja_dota\system\Database\BaseConnection.php(570): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\loja_dota\system\Database\BaseBuilder.php(1429): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\loja_dota\system\Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\loja_dota\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(45): CodeIgniter\BaseModel->find()
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2021-10-26 20:37:40 --> Error connecting to the database: Unknown database 'loja_dota'
+CRITICAL - 2021-10-26 20:37:40 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'loja_dota'
+#0 C:\xampp\htdocs\loja_dota\system\Database\BaseConnection.php(570): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\loja_dota\system\Database\BaseBuilder.php(1429): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\loja_dota\system\Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\loja_dota\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(45): CodeIgniter\BaseModel->find()
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2021-10-26 20:39:43 --> Error connecting to the database: Unknown database 'loja_dota'
+CRITICAL - 2021-10-26 20:39:43 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'loja_dota'
+#0 C:\xampp\htdocs\loja_dota\system\Database\BaseConnection.php(570): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\loja_dota\system\Database\BaseBuilder.php(1429): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\loja_dota\system\Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\loja_dota\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(45): CodeIgniter\BaseModel->find()
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 20:57:05 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\itens.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('itens', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(49): view('itens', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 20:59:06 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\itens.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('itens', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(49): view('itens', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 20:59:11 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\itens.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('itens', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(49): view('itens', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 20:59:12 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\itens.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('itens', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(49): view('itens', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 20:59:12 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\itens.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('itens', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(49): view('itens', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_get()
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-10-26 21:01:55 --> Undefined property: stdClass::$id_item
+#0 C:\xampp\htdocs\loja_dota\app\Views\item.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 66, Array)
+#1 C:\xampp\htdocs\loja_dota\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\loja_dota\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\loja_dota\system\Common.php(1103): CodeIgniter\View\View->render('item', Array, true)
+#4 C:\xampp\htdocs\loja_dota\app\Controllers\Gerencia.php(37): view('item', Array)
+#5 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(824): App\Controllers\Gerencia->view_update('101')
+#6 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gerencia))
+#7 C:\xampp\htdocs\loja_dota\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\loja_dota\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
